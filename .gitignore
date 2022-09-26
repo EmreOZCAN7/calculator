@@ -1,5 +1,7 @@
 node_modules/
 .expo/
+.vscode/
+.expo-shared/
 dist/
 npm-debug.*
 *.jks
@@ -8,7 +10,12 @@ npm-debug.*
 *.key
 *.mobileprovision
 *.orig.*
+*.json
 web-build/
+assets/
+android/
+
 
 # macOS
 .DS_Store
+*.lock
